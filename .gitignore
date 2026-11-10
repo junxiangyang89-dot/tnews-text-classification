@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+/data/
+/models/
+/pretrain_models/
+/outputs/
+*.pt
+*.bin
+*.safetensors
+*.gguf
+/report/predictions*.json
+/report/run_config.json
